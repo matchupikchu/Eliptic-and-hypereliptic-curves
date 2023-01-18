@@ -1,6 +1,4 @@
-# Project Title
-
-Eliptic and hypereliptic curves
+# Eliptic and hypereliptic curves
 
 ## Description
 
